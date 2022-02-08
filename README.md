@@ -1,4 +1,4 @@
-# tensorflow-pix2pix
+# pix2pix-tensorflow
 
 Tensorflow implementation of [pix2pix](https://arxiv.org/pdf/1611.07004.pdf).
 
